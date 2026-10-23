@@ -1,0 +1,13 @@
+{
+    "name": "nodejs-start-example",
+    "version": "1.0.0",
+    "description": "Used to showcase basic server launch functionality",
+    "scripts": {
+        TODO replace
+    },
+    "author": "Name Here",
+    "repository": {
+        "type": "git",
+        "url": "Put Github Repository Link Here"
+    }
+}
