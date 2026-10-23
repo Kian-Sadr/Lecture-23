@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Used to showcase basic server launch functionality",
     "scripts": {
-        TODO replace
+        "start": "node Lec23_2.js"
     },
     "author": "Name Here",
     "repository": {
